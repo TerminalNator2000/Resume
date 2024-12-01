@@ -1,16 +1,15 @@
 ### **Markus Nations**  
-**Senior Solutions Architect**  
-[Contact: mnations058@gmail.com | Phone: 346-689-6511 | [LinkedIn](https://www.linkedin.com/in/mark-nations) | GitHub: https://github.com/TerminalNator2000 | GitLab: https://gitlab.com/TerminalNator2000 | ORCID https://orcid.org/0009-0002-9151-034X 
+Contact: mnations058@gmail.com | Phone: 346-689-6511 | [LinkedIn](https://www.linkedin.com/in/mark-nations) | GitHub: https://github.com/TerminalNator2000 | GitLab: https://gitlab.com/TerminalNator2000 | ORCID https://orcid.org/0009-0002-9151-034X 
 
 ---
 
 ### **Summary**  
-Seasoned professional with over 12 years of experience in designing and optimizing scalable, secure architectures. Expertise in cloud platforms, data-driven development, and leading cross-functional teams to deliver innovative solutions that enhance efficiency and drive business growth.
+Seasoned professional with over 12 years of experience in designing and optimizing scalable, secure architectures. Expertise in Object oriented programming (Python,) cloud platforms such as AWS, Azure, and GCP, data-driven development (science & analytics,) as well as leading cross-functional teams to deliver innovative solutions that enhance efficiency and drive business growth.
 
 ---
 
 ### **Skills**  
-- **Cloud Platforms:** AWS, Microsoft Azure, OCI, Google Cloud  
+- **Cloud Platforms:** AWS, Microsoft Azure, OCI, Google Cloud Platform 
 - **Development:** Python (OOP,)SQL (Postgres, MySQL, SQLite,) Java, JavaScript, React.js, AngularJS, .NET Framework  
 - **Database Management:** SQL Server, Azure Data Lake, Cosmos DB, ETL Processes  
 - **Security:** Penetration Testing, Vulnerability Assessments, Ethical Hacking (OWASP, Kali Linux)  
@@ -37,13 +36,14 @@ Seasoned professional with over 12 years of experience in designing and optimizi
 
 **Senior Software Developer**  
 **Carnegie Escrow** | Houston, TX | Dec 2017 – Dec 2018  
-- Engineered blockchain-based solutions, including Notary AI (available on GitHub).  
+- Engineered & developed applications using multiple programming languages including Python/C#/C++, experienced Solutions Architecture, blockchain-based solutions, including Notary AI (available on GitHub https://github.com/markusj1201).  
 - Conducted QA reviews to ensure system stability and security compliance.  
 
 **Software Development Project Manager**  
 **Allegheny Technologies Limited** | North America | Mar 2012 – Sep 2017  
 - Directed the development of in-house programs and web applications as an Agile Scrum Master.  
-- Managed all stages of the SDLC, driving project success through detailed planning and execution.  
+- Managed all stages of the SDLC, driving project success through detailed planning and execution.
+- Developed software packages in Python, C#, C++, Node.js, React.js, and other full stack technologies.  
 
 ---
 
