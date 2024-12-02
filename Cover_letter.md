@@ -1,11 +1,13 @@
 **Mark "Markus" Nations**  
 Email: mnations058@gmail.com | Phone: 346-689-6511 | GitHub: @TerminalNator2000 (old Github: @markusj1201) | Gitlab: @TerminalNator2000 | ORCID https://orcid.org/0009-0002-9151-034X
 
+
 02Dec2024  
 
 Glean
  For: Solutions Engineer 
  
+
 
 Dear Hiring Manager,  
 
@@ -22,6 +24,7 @@ Some of my accomplishments that align with Glean’s requirements include:
 I thrive in collaborative environments that value innovation and agility. My ability to lead by example and align technical solutions with strategic objectives mirrors Glean’s core values. I am particularly inspired by Glean’s commitment to AI innovation strategies and your founder's background in the tech space, and I am confident in my ability to contribute to the evolution of secure, scalable, and impactful solutions engineering projects.  
 
 Thank you for considering my application. I welcome the opportunity to discuss how my skills and experiences align with Glean's vision and goals.  
+
 
 Sincerely,  
 **Mark "Markus" Nations**
