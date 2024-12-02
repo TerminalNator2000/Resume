@@ -1,4 +1,4 @@
-**Markus Nations**  
+**Mark "Markus" Nations**  
 Email: mnations058@gmail.com | Phone: 346-689-6511 | GitHub: @TerminalNator2000 | Gitlab: @TerminalNator2000 | ORCID https://orcid.org/0009-0002-9151-034X
 
 02Dec2024  
